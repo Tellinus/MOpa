@@ -1,4 +1,3 @@
-# MOpa
 <meta charset="UTF-8">
 <h1>Meu primeito teste!</h1>
 <br>
@@ -6,3 +5,9 @@
 <br>
 <br>
 Seria isso um programa? Descubra visitando o meu ovo. <a href="https://www.distribuidorameuovo.com">aqui</a>!
+
+<script>
+
+alert("Isso sim é o meu pau")
+
+</script>
